@@ -1,0 +1,20 @@
+<?xml version="1.0"?>
+<package>
+    <name>Zentio_Zentio</name>
+    <version>1.0.3</version>
+    <stability>stable</stability>
+    <license uri="http://www.apache.org/licenses/LICENSE-2.0">Apache Software License (ASL)</license>
+    <channel>community</channel>
+    <extends/>
+    <summary>Zent.io Multi-Channel Contact Center and Customer Support integrated into your store.</summary>
+    <description>Zent.IO is a Contact Center Cloud Software Multichannel that unify chat, phone and e-mail. All the communication channels will be answered from a single interface. The agent will only need a web browser.&#xD;
+&#xD;
+Whether we are a contact center inside a company or a contact center that provides services to customers for other companies that outsource their customer care, being multichannel is a necessity nowadays. Give a step forward with Zent.io</description>
+    <notes>Minor Bug Fixes</notes>
+    <authors><author><name>Antonio Jos&#xE9; Moreno de la Rosa</name><user>zentio</user><email>support@zent.io</email></author></authors>
+    <date>2015-02-19</date>
+    <time>06:43:01</time>
+    <contents><target name="magecommunity"><dir name="Zentio"><dir name="Zentio"><dir name="Helper"><file name="Data.php" hash="5efa851fe49b5bff580142f3e631d86b"/></dir><file name="LICENSE.txt" hash="51f3d38889a28739d45f31597a9f4446"/><dir name="controllers"><dir name="Adminhtml"><file name="ZentioController.php" hash="6072e05687cdd164e480b0af7b8d2530"/></dir><file name="ApiController.php" hash="314cad9f4ebc630f9180bb42868e9196"/></dir><dir name="etc"><file name="adminhtml.xml" hash="f649f2c785bca8dc36d06f8fdf8a4e31"/><file name="config.xml" hash="544edbc93b810416989b3f3a190a072e"/><file name="system.xml" hash="3b703cb9f4dcd7a0e697da456b124fae"/></dir></dir></dir></target><target name="mageetc"><dir name="modules"><file name="Zentio_Zentio.xml" hash="4e9c12b8be9848d47d75941c140ffe83"/></dir></target></contents>
+    <compatible/>
+    <dependencies><required><php><min>5.2.0</min><max>6.0.0</max></php></required></dependencies>
+</package>
