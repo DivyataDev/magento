@@ -7210,7 +7210,7 @@ CREATE TABLE `magesms_smsuser` (
 
 LOCK TABLES `magesms_smsuser` WRITE;
 /*!40000 ALTER TABLE `magesms_smsuser` DISABLE KEYS */;
-INSERT INTO `magesms_smsuser` VALUES (1,'ms1506232006BFisrt','nJf5Sxx9JEWReg','divyata_phadte@rediffmail.com','person','','','','','United States','','',0,0,0,'',1,0,'div','dev');
+INSERT INTO `magesms_smsuser` VALUES (1,'ms1506232006BFisrt','nJf5Sxx9JEWReg','test@example.com','person','','','','','United States','','',0,0,0,'',1,0,'div','dev');
 /*!40000 ALTER TABLE `magesms_smsuser` ENABLE KEYS */;
 UNLOCK TABLES;
 
